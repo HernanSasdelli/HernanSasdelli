@@ -32,5 +32,5 @@
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HernanSasdelli&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HernanSasdelli&show_icons=true&theme=dark)
+
 
