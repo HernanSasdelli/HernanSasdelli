@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/4c063a7c-034c-48ab-827d-4743a121fda6)
 # 👋 Hola! Soy Hernán Sasdelli
 
 📍 Desde Lomas de Zamora, Argentina  
