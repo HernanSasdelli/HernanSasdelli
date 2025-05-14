@@ -1,7 +1,7 @@
 # 👋 Hola! Soy Hernán Sasdelli
 
 📍 Desde Lomas de Zamora, Argentina  
-💻 Desarrollador Full Stack en formación  
+🎓 Estudiante de Técnico Universitario en Programación – UTN  
 
 ## 💻 Tecnologías
 
